@@ -1,4 +1,4 @@
-1 cd C:\Users\joona\Desktop\webkehitys2023syksy~
+1 cd C:\Users\joona\Desktop\webkehitys2023syksy~;
 2 cd webkehitys2023syksy
 3 cd ..
 4 pwd
